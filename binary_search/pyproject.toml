@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "binary-search"
+version = "0.1.0"
+description = ""
+authors = ["Flict-dev <zhdanom.maksi@gmail.com>"]
+readme = "README.md"
+packages = [{include = "binary_search"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
