@@ -35,4 +35,3 @@ def bfs(graph, func):
 
 def check_function(item: str):
     return item[-1] == "m"
-
