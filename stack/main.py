@@ -41,6 +41,5 @@ def infix_to_postfix(row: str):
 
     return res + "".join(stack)
 
-print("6+3*(1+4*5)*2")
-print(infix_to_postfix("6+3*(1+4*5)*2"))
-
+# print("6+3*(1+4*5)*2")
+# print(infix_to_postfix("8 9 + 1 7 - *"))
