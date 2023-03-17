@@ -1,3 +1,4 @@
+# Операции с значениями их приоритетов
 operations = {
     "+": 1,
     "-": 1,
@@ -10,17 +11,10 @@ def infix_to_postfix(row: str):
     res, stack = "", []
 
     for i in row:
-
         if i.isdigit():
             res += i
 
-        elif len(stack) == 0:
-            stack.append(i)
-
-        elif i == "(":
-            stack.append(i)
-
-        elif stack[-1] == "(":
+        elif not len(stack) or i == "(" or stack[-1] == "(":
             stack.append(i)
 
         elif i == ")":
@@ -41,5 +35,6 @@ def infix_to_postfix(row: str):
 
     return res + "".join(stack)
 
-# print("6+3*(1+4*5)*2")
-# print(infix_to_postfix("8 9 + 1 7 - *"))
+
+print("6+3*(1+4*5)*2")
+print(infix_to_postfix("6+3*(1+4*5)*2"))
