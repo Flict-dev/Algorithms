@@ -1,4 +1,4 @@
-# Тренировки по алгоритмам 3.0. Лекция 1: «Стеки»
+# Тренировки по алгоритмам 3.0. [Лекция 1: «Стеки»](https://www.youtube.com/live/ZUpImO_2hmA?feature=share)
 
 ## 1. Инфиксная запись выражения в постфиксную при помощи стека
 ![image](https://user-images.githubusercontent.com/76905733/225863626-611f96f3-cfc7-479e-815c-92ebfaa8f581.png)
@@ -79,4 +79,38 @@ for i in range(len(stack)):
     res.append((*stack[i], len(data)))
 
 print(sorted(res))
+```
+---
+## 3.Реализация рекурсивной функции при помощи стэка без рекурсии
+```python
+def fact(n):
+    if n == 1:
+        return 1
+    return n * fact(n - 1)
+
+stack = [{"n": 4, "prev": "?", "labelfrom": 0}]
+while len(stack) > 0:
+
+    localvars = stack[-1]
+    labelfrom = localvars["labelfrom"]
+    
+    """Labelfrom 0 означает обработку входа в функцию"""
+    if labelfrom <= 0:
+        print(stack)
+        if localvars["n"] == 1:
+            returnedvalue = 1
+            stack.pop()
+            continue
+        localvars["labelfrom"] = 1
+        stack.append({"n": localvars["n"] - 1, "prev": "?", "labelfrom": 0})
+        continue
+    
+    """Labelfrom 1 означает обработку выхода из функции"""
+    if labelfrom <= 1:
+        localvars["prev"] = returnedvalue
+        returnedvalue = localvars["prev"] * localvars["n"]
+        print(stack)
+        stack.pop()
+
+print(returnedvalue)
 ```
