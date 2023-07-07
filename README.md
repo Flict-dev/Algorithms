@@ -2,22 +2,22 @@
 `Это маленький хэндбук по алгоритмам и структурам данных`
 
 ## Структуры данных
-- [Стек](https://github.com/Flict-dev/Algorithms/tree/master/stack)
-- [Очередь](https://github.com/Flict-dev/Algorithms/tree/master/queue)
-- [Дек](https://github.com/Flict-dev/Algorithms/blob/master/b_division/deque.py)
-- [Связанный список](https://github.com/Flict-dev/Algorithms/tree/master/linked_list)
-- [Куча](https://github.com/Flict-dev/Algorithms/tree/master/heap)
+- [Стек](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/stack)
+- [Очередь](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/queue)
+- [Дек](https://github.com/Flict-dev/Algorithms/blob/master/algs_and_ds/b_division/deque.py)
+- [Связанный список](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/linked_list)
+- [Куча](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/heap)
 - Графы
 
 ## Алгоритмы
-- [Сортировки](https://github.com/Flict-dev/Algorithms/tree/master/sorting)
-- [Бинарный поиск](https://github.com/Flict-dev/Algorithms/tree/master/binary_search)
-- [Динамическое программирование](https://github.com/Flict-dev/Algorithms/tree/master/dynamic_programming)
-- [Поиск в ширину](https://github.com/Flict-dev/Algorithms/tree/master/bfs)
-- [Поиск в глубину](https://github.com/Flict-dev/Algorithms/tree/master/dfs)
+- [Сортировки](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/sorting)
+- [Бинарный поиск](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/binary_search)
+- [Динамическое программирование](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/dynamic_programming)
+- [Поиск в ширину](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/bfs)
+- [Поиск в глубину](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/dfs)
 
 ## Задачи
-- [Дивизион B](https://github.com/Flict-dev/Algorithms/tree/master/b_division)
+- [Дивизион B](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/b_division)
 
 ## Полезные сслыки
 - [Конспекты первого курса Tinkoff Generation.](https://algorithmica.org/tg/)
