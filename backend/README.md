@@ -1,7 +1,7 @@
 # Раздел по `бэкенду` на python
 
 ---
-## Дебаг, логирование, профилирование: [Примеры]()
+## Дебаг, логирование, профилирование: [Примеры](https://github.com/Flict-dev/Handbook/tree/master/backend/examples/profiling)
 `Инструменты`
 - [cProfile](https://docs.python.org/3/library/profile.html)
   - [SnakeViz](https://pypi.org/project/snakeviz/) для визуализации cProfile
