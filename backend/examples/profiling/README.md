@@ -33,6 +33,8 @@
 ![image](https://github.com/Flict-dev/Handbook/assets/76905733/886d5fd1-9992-48fc-b770-9ac016442119)
 ## 4. vmprof [docs](https://github.com/vmprof/vmprof-python)
 ![image](https://github.com/Flict-dev/Handbook/assets/76905733/4c1f9955-2059-445a-81f5-f5483922378e)
+## 5. tracemalloc [docs](https://docs-python.ru/standart-library/modul-tracemalloc-python/)
+`Утилита для профилирования памяти`
 
 ---
 
