@@ -18,4 +18,5 @@
 - [Мартин Фаулер](https://www.livelib.ru/book/1000306920-arhitektura-korporativnyh-programmnyh-prilozhenij-martin-fauler)
 - [Роберт Мартин](https://www.livelib.ru/book/1002786125-chistaya-arhitektura-iskusstvo-razrabotki-programmnogo-obespecheniya-robert-martin)
 - [Implementing the Clean Architecture](https://www.livelib.ru/work/1008620875-implementing-the-clean-architecture-sebastian-buczyski) - прочесть обязательно
+- [Сайт с патернами микросевисов](https://microservices.io/)
 ---
