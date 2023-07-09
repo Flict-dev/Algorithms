@@ -12,3 +12,10 @@
 - [Профилирование и отладка Python - ВК](https://habr.com/ru/companies/vk/articles/202832/)
 - [Лекция Яндекс](https://youtu.be/YKSRnDP2u0Q)
 ---
+## Архитектура приложения: [Примеры](https://github.com/Flict-dev/Handbook/tree/master/backend/examples/app_architecture)
+`Ссылки`
+- [Лекция Яндекс](https://youtu.be/dH1_g8V5vQQ)
+- [Мартин Фаулер](https://www.livelib.ru/book/1000306920-arhitektura-korporativnyh-programmnyh-prilozhenij-martin-fauler)
+- [Роберт Мартин](https://www.livelib.ru/book/1002786125-chistaya-arhitektura-iskusstvo-razrabotki-programmnogo-obespecheniya-robert-martin)
+- [Implementing the Clean Architecture](https://www.livelib.ru/work/1008620875-implementing-the-clean-architecture-sebastian-buczyski) - прочесть обязательно
+---
