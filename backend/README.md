@@ -20,3 +20,12 @@
 - [Implementing the Clean Architecture](https://www.livelib.ru/work/1008620875-implementing-the-clean-architecture-sebastian-buczyski) - прочесть обязательно
 - [Сайт с патернами микросевисов](https://microservices.io/)
 ---
+##  Инфраструктура: [Примеры](https://github.com/Flict-dev/Handbook/tree/master/backend/examples/infrastructure)
+`Инструменты`
+- [Ansible](https://www.ansible.com/)
+- [SnakePacker](https://github.com/snakepacker/python)
+  
+`Ссылки`
+- [Лекция Яндекс](https://youtu.be/uRA5bL-vkQg)
+- [Статья по docker](https://bool.dev/blog/detail/top8-docker-best-practices)
+---
