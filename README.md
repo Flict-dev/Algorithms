@@ -3,4 +3,6 @@
 
 ## [Алгоритмы и Структуры данных](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds)
 
-## [Python backend](https://github.com/Flict-dev/Algorithms/tree/master/backend)
+## [Backend](https://github.com/Flict-dev/Algorithms/tree/master/backend)
+
+## [Python](https://github.com/Flict-dev/Algorithms/tree/master/python)
