@@ -1,3 +1,5 @@
+# Раздел по Алгоритмам и Структурам данных
+
 ## Структуры данных
 - [Стек](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/stack)
 - [Очередь](https://github.com/Flict-dev/Algorithms/tree/master/algs_and_ds/queue)
