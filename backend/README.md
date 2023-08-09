@@ -29,3 +29,10 @@
 - [Лекция Яндекс](https://youtu.be/uRA5bL-vkQg)
 - [Статья по docker](https://bool.dev/blog/detail/top8-docker-best-practices)
 ---
+##  Работа с БД: [Примеры](https://github.com/Flict-dev/Handbook/tree/master/backend/examples/databases)
+`Инструменты`
+ - [SQLAlchemy](https://www.sqlalchemy.org/)
+ - [Tortoise ORM](https://tortoise.github.io/)
+`Ссылки`
+- [Лекция Яндекс](https://www.youtube.com/live/PDWr91OFf0s?feature=share)
+---
